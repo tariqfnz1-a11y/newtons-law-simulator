@@ -1,0 +1,6 @@
+{
+  "name": "Newton's First Law Simulator",
+  "description": "An interactive 2D physics playground simulating inertia, force, mass, and friction with visual vector overlays and active experiment presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
